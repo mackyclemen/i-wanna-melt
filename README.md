@@ -17,9 +17,9 @@ Original code below:
 		<p>My Phone Number is <u>+639053337168</u>
 		<br>My e-Mail Addresses are:</p>
 		<ul>
-			<li><a href="mailto:mackyclemen@yahoo.com">mackyclemen@yahoo.com</a>
-			<li><a href="mailto:mackyclemen@gmail.com">mackyclemen@gmail.com</a>
-			<li><a href="mailto:marc_steven_clemen@hotmail.com">marc_steven_clemen@hotmail.com</a>
+			<li><a href="about:blank">###########@yahoo.com</a>
+			<li><a href="about:blank">###########@gmail.com</a>
+			<li><a href="about:blank">##################@hotmail.com</a>
 		</ul>
 		<p>my EVERY user account on any websites!</p>
 		<ul>
